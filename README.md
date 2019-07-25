@@ -1,4 +1,4 @@
-# OBJECTIVE
+## OBJECTIVE
 Open file "data.csv"
 
 Sort data by price
