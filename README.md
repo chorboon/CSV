@@ -1,7 +1,6 @@
 # OBJECTIVE
-   Opens file "data.csv"
-   Sorts data by price
-   Prints results to standard out
-   After you are done submit source and output
+Open file "data.csv"
+Sort data by price
+Print results to standard out
 
 
